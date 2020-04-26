@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatoriske opgave1", "Obligatoriske opgave1\Obligatoriske opgave1.csproj", "{E2C62A9F-C64F-4574-A3F9-776FF86B2960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsClientConsole", "WsClientConsole\WsClientConsole.csproj", "{363B419D-90AB-49E5-9DD9-E0E38BEF7F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C62A9F-C64F-4574-A3F9-776FF86B2960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C62A9F-C64F-4574-A3F9-776FF86B2960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C62A9F-C64F-4574-A3F9-776FF86B2960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C62A9F-C64F-4574-A3F9-776FF86B2960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363B419D-90AB-49E5-9DD9-E0E38BEF7F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363B419D-90AB-49E5-9DD9-E0E38BEF7F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363B419D-90AB-49E5-9DD9-E0E38BEF7F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363B419D-90AB-49E5-9DD9-E0E38BEF7F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88E2D81-6B8E-4E70-B736-A54AC9987C62}
+	EndGlobalSection
+EndGlobal
